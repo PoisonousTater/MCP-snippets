@@ -15,6 +15,12 @@
                             	GlStateManager.translate(-0.5f, 0.2f, 0.0f);
                             }``` (again main being the main class of ur client)          do all this as shown in the image :)
   ![image](https://user-images.githubusercontent.com/92774577/153559833-7c833433-23be-461d-b951-22da207caebe.png)
+  
+  
+
+# Credits
+
+  i am using quick daffys 1.7 animation values so yes
 
   
 
