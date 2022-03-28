@@ -19,4 +19,4 @@ ColorUtils.rainbowEffect(2000000000L, 1.0F).getAlpha()
 
 # NOT-MY-CODE
 
-22thisos gabmerboy4lifes code just made it a rep so its easy for me to copy paste eeeeeee
+this is gabmerboy4lifes code just made it a rep so its easy for me to copy paste eeeeeee
